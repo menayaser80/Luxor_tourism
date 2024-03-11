@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275019802127",
+    "project_id": "luxor-283ba",
+    "storage_bucket": "luxor-283ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275019802127:android:28498eb1acc4a27b36257a",
+        "android_client_info": {
+          "package_name": "com.example.vixor_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkR6OqB3n0yjGBMPQS6OZuuhqFSRJ3iok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
